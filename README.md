@@ -5,3 +5,4 @@ run command -------  npm start  --- to run the program
 User interface starts on localhost:3000 port
 Add email and password(just type something in password)
 find json file in project folder - settings-add.json
+add again new email and password to make sure the process
