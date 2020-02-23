@@ -1,0 +1,11 @@
+{
+    "Email": "ranishkalakshangsc@gmail.com",
+    "Password": "Ranish1995",
+    "More_details": {
+        "Age": 24,
+        "Address": [
+            1,
+            2
+        ]
+    }
+}
